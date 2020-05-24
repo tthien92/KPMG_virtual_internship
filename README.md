@@ -9,7 +9,7 @@ Inside Sherpa has a virtual internship at [KPMG](https://www.insidesherpa.com/vi
 
 <img src="module_1/dimensions.png" width="300">
 
-2. Suggest the 1000 individuals that the client should target in order to drive the most value. Then, submit a Powerpoint that illustrates the 3 steps of data exploration, modeling, and interpretation.
+2. Suggest a number of individuals out of 1000 that the client should target in order to drive the most value. Then, submit a Powerpoint that illustrates the 3 steps of data exploration, modeling, and interpretation.
 
 3. Present the data analysis to the client using a dashboard
 
